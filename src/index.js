@@ -1,4 +1,3 @@
-import _ from "lodash";
+import _ from 'lodash';
 
- export default (coll) => _.last(['one', 'true']);
-
+export default () => _.last(['one', 'true']);
